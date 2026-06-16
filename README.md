@@ -125,7 +125,7 @@ With a strong foundation in **full-stack MERN development** and hands-on experie
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mahmoud-abdalla-eg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Mahmoud's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mahmoud-abdalla-eg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mahmoud's GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-abdalla-eg&layout=compact&theme=tokyonight&hide_border=true" alt="Mahmoud's top languages" />
 
   <br />
