@@ -28,6 +28,7 @@ Computer Science and Technology student at Jinan University and Software Enginee
 <table>
   <tr>
     <td width="50%" valign="top">
+      <br />
       <h4>Background & Education</h4>
       <ul>
         <li><strong>Institution:</strong> Jinan University (Guangzhou, China)</li>
@@ -35,8 +36,10 @@ Computer Science and Technology student at Jinan University and Software Enginee
         <li><strong>Experience:</strong> Software Intern at Core Mail</li>
         <li><strong>Location:</strong> Guangzhou, China (Originally from Egypt)</li>
       </ul>
+      <br />
     </td>
     <td width="50%" valign="top">
+      <br />
       <h4>Technical Focus & Communication</h4>
       <ul>
         <li><strong>Core Domains:</strong> LLM Evaluation, Test Harnesses, MERN Systems</li>
@@ -44,6 +47,7 @@ Computer Science and Technology student at Jinan University and Software Enginee
         <li><strong>Engineering Practice:</strong> CI/CD Pipelines, Automated Testing, Benchmark Architecture</li>
         <li><strong>Languages:</strong> Arabic (Native), English (Fluent), Chinese (Working)</li>
       </ul>
+      <br />
     </td>
   </tr>
 </table>
@@ -55,38 +59,46 @@ Computer Science and Technology student at Jinan University and Software Enginee
 <table>
   <tr>
     <td width="50%" valign="top">
+      <br />
       <h4>AI & LLM Systems</h4>
       <ul>
         <li><strong>Evaluation & Harnesses:</strong> Benchmarking Pipelines, Output Verification, Prompt Regression Testing</li>
         <li><strong>Model Tooling:</strong> Agentic Workflows, Structured Outputs, LLM APIs</li>
         <li><strong>Languages & Scripting:</strong> Python, TypeScript, Node.js</li>
       </ul>
+      <br />
     </td>
     <td width="50%" valign="top">
+      <br />
       <h4>Full-Stack Web Development</h4>
       <ul>
         <li><strong>Frontend:</strong> React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, Tailwind CSS</li>
         <li><strong>Backend & APIs:</strong> Node.js, Express.js, RESTful Architecture, Socket.IO</li>
         <li><strong>Real-Time Systems:</strong> WebSockets, Event-driven state handling</li>
       </ul>
+      <br />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <br />
       <h4>Databases & Storage</h4>
       <ul>
         <li><strong>Databases:</strong> MongoDB, SQL, Firebase Firestore</li>
         <li><strong>Data Modeling:</strong> Schema Design, Aggregation Pipelines, Indexing</li>
         <li><strong>State & Cache:</strong> In-memory session state, local caching strategies</li>
       </ul>
+      <br />
     </td>
     <td width="50%" valign="top">
+      <br />
       <h4>DevOps & Infrastructure</h4>
       <ul>
         <li><strong>Version Control & CI:</strong> Git, GitHub Actions, Automated Workflows</li>
         <li><strong>Cloud & Environments:</strong> AWS fundamentals, Vercel, Docker basics</li>
         <li><strong>Testing:</strong> Unit testing, Jest, Mocha, API integration testing</li>
       </ul>
+      <br />
     </td>
   </tr>
 </table>
@@ -98,25 +110,33 @@ Computer Science and Technology student at Jinan University and Software Enginee
 <table>
   <tr>
     <td width="50%" valign="top">
+      <br />
       <h4>LLM Evaluation & Test Harness Pipeline</h4>
       <p>Architected automated evaluation workflows to systematically assess LLM reasoning consistency, hallucination rates, and latency under structured benchmark prompts.</p>
       <p><em>Focus: Model evaluation, automated test harnesses, prompt regression pipelines</em></p>
+      <br />
     </td>
     <td width="50%" valign="top">
+      <br />
       <h4>Real-Time Communication Platform</h4>
       <p>Built a full-stack real-time collaboration application featuring room-based channel management, sub-second message propagation, and persistent session state.</p>
       <p><em>Tech: React.js, Node.js, Express.js, Socket.IO, MongoDB</em></p>
+      <br />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <br />
       <h4>China International College Students' Innovation Competition 2025</h4>
       <p><strong>Silver Award (School Level, Phase 1)</strong></p>
       <p>Co-led core technical development and digital presentation architecture, coordinating cross-functional engineering workflows.</p>
+      <br />
     </td>
     <td width="50%" valign="top">
+      <br />
       <h4>Guangdong Intellectual Property & Enterprise Immersion 2025</h4>
       <p>Selected to study enterprise tech practices and intellectual property structures on-site at major technology leaders including Tencent and BYD.</p>
+      <br />
     </td>
   </tr>
 </table>
@@ -126,8 +146,8 @@ Computer Science and Technology student at Jinan University and Software Enginee
 ## GitHub Analytics
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmoud-abdalla-eg&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmoud-abdalla-eg&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmoud-abdalla-eg&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmoud-abdalla-eg&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
