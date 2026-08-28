@@ -1,162 +1,160 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0EA5E9,50:7C3AED,100:EF4444&text=Mahmoud%20Abdalla&fontColor=ffffff&fontSize=44&fontAlignY=36&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20MERN%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=17" alt="Mahmoud Abdalla animated profile banner" />
+# Mahmoud Abdalla
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&center=true&vCenter=true&width=780&lines=Full-Stack+Web+Developer;UI%2FUX+and+Graphic+Designer;React+%7C+Node.js+%7C+MongoDB;Building+clean%2C+fast%2C+beautiful+interfaces" alt="Animated typing introduction" />
-  </a>
+**Full-Stack Developer & AI Systems Analyst**  
+*LLM Evaluation & Benchmarking | Distributed Full-Stack Systems | UI/UX Architecture*
 
-  <p>
-    <a href="https://www.linkedin.com/in/mahmoud-abdalla-eg/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:mahmouddesign01@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.behance.net/mahmoud-abdalla-eg">
-      <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-    </a>
-  </p>
-
-</div>
-
----
-
-## &#128640; About Me
-
-I am a **Computer Science and Technology** student at **Jinan University** in Guangzhou, China, originally from Egypt. I enjoy bridging the gap between robust software engineering and beautiful user experiences.
-
-With a strong foundation in **full-stack MERN development** and hands-on experience in **UI/UX and graphic design**, I build engaging, user-friendly, high-performance web applications.
-
-<table>
-  <tr>
-    <td width="50%">
-      <ul>
-        <li>&#127758; <strong>Based in:</strong> Guangzhou, China</li>
-        <li>&#127891; <strong>Education:</strong> B.S. Computer Science and Technology, Jinan University</li>
-        <li>&#128198; <strong>Expected graduation:</strong> 2028</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <ul>
-        <li>&#128172; <strong>Languages:</strong> Arabic, English, Chinese</li>
-        <li>&#9889; <strong>Focus:</strong> MERN apps, UI systems, branding, performance</li>
-        <li>&#127912; <strong>Fun fact:</strong> I treat UI layouts like a canvas and code like the structure that holds it together.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## &#128736; Tech Toolbox
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,html,css,tailwind,figma,ps,ai,git,github,aws,vscode&perline=9" alt="Tech stack icons" />
-
-</div>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">&#128187; Frontend & Backend</h3>
-      <ul>
-        <li>JavaScript / TypeScript</li>
-        <li>React.js / Next.js</li>
-        <li>Node.js / Express.js</li>
-        <li>HTML5 / CSS3 / Tailwind CSS</li>
-        <li>Socket.IO real-time apps</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">&#127912; Design & UI/UX</h3>
-      <ul>
-        <li>UI/UX design in Figma</li>
-        <li>Wireframing and prototyping</li>
-        <li>Adobe Photoshop</li>
-        <li>Adobe Illustrator</li>
-        <li>Branding and typography</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">&#9881; Tools & DevOps</h3>
-      <ul>
-        <li>Git / GitHub</li>
-        <li>MongoDB / SQL / Firebase</li>
-        <li>AWS fundamentals</li>
-        <li>Testing with Jest and Mocha</li>
-        <li>SEO and performance optimization</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## &#127942; Highlights
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>China International College Students' Innovation Competition 2025</h3>
-      <p>Co-led game technical development, UI design research, and promotional web development. Awarded <strong>Silver</strong> at the school level, Phase 1.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>New Liberal Arts Practice Innovation Competition</h3>
-      <p>Built a full-stack real-time chat application using React.js, Node.js, and Socket.IO.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Game Producer Competition</h3>
-      <p>Designed and integrated Unity game assets using Adobe Illustrator and Photoshop.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Guangdong Intellectual Property Camp 2025</h3>
-      <p>Selected to visit technology companies including Tencent and BYD to study intellectual property practices.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## &#128200; GitHub Stats
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mahmoud-abdalla-eg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mahmoud's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-abdalla-eg&layout=compact&theme=tokyonight&hide_border=true" alt="Mahmoud's top languages" />
-
-  <br />
-
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud-abdalla-eg&theme=tokyo-night&hide_border=true&radius=8" alt="Mahmoud's GitHub activity graph" />
-
-</div>
-
----
-
-## &#129309; Let's Connect
-
-I am always excited to collaborate on web products, UI/UX systems, creative tools, and open-source projects.
-
-<div align="center">
-
+<p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-abdalla-eg/">
-    <img src="https://img.shields.io/badge/LinkedIn-/in/mahmoud--abdalla--eg-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.behance.net/mahmoud-abdalla-eg">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white" alt="Behance" />
   </a>
   <a href="mailto:mahmouddesign01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mahmouddesign01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mahmoud" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://github.com/mahmoud-abdalla-eg">
+    <img src="https://img.shields.io/badge/GitHub-mahmoud--abdalla--eg-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-  <br />
-  <br />
+</div>
 
-  <strong>WeChat ID:</strong> Mahmoud-Ahmed995
+---
 
-  <br />
-  <br />
+## Overview
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:EF4444,50:7C3AED,100:0EA5E9" alt="Animated footer wave" />
+Computer Science and Technology student at Jinan University and Software Engineering Intern at Core Mail. My work centers on the intersection of full-stack web architectures, AI systems analysis, and LLM harness engineering—building rigorous evaluation pipelines, scalable backend services, and high-performance user interfaces.
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Background & Education</h4>
+      <ul>
+        <li><strong>Institution:</strong> Jinan University (Guangzhou, China)</li>
+        <li><strong>Degree:</strong> B.S. Computer Science and Technology (Expected 2028)</li>
+        <li><strong>Experience:</strong> Software Intern at Core Mail</li>
+        <li><strong>Location:</strong> Guangzhou, China (Originally from Egypt)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Technical Focus & Communication</h4>
+      <ul>
+        <li><strong>Core Domains:</strong> LLM Evaluation, Test Harnesses, MERN Systems</li>
+        <li><strong>System Design:</strong> Real-Time WebSockets, RESTful APIs, UI Systems</li>
+        <li><strong>Design Expertise:</strong> End-to-End Prototyping, Figma, Adobe Suite</li>
+        <li><strong>Languages:</strong> Arabic (Native), English (Fluent), Chinese (Working)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Technical Stack
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>AI & LLM Engineering</h4>
+      <ul>
+        <li><strong>Evaluation & Harnesses:</strong> Benchmarking Pipelines, Output Verification, Prompt Regression Testing</li>
+        <li><strong>Model Tooling:</strong> Agentic Workflows, Structured Outputs, LLM APIs</li>
+        <li><strong>Languages & Scripting:</strong> Python, TypeScript, Node.js</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Full-Stack Development</h4>
+      <ul>
+        <li><strong>Frontend:</strong> React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS</li>
+        <li><strong>Backend & APIs:</strong> Node.js, Express.js, RESTful Architecture, Socket.IO</li>
+        <li><strong>Real-Time Systems:</strong> WebSockets, Event-driven state handling</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Databases & Infrastructure</h4>
+      <ul>
+        <li><strong>Databases:</strong> MongoDB, SQL, Firebase Firestore</li>
+        <li><strong>Version Control & CI:</strong> Git, GitHub Actions</li>
+        <li><strong>Cloud & DevOps:</strong> AWS fundamentals, Vercel, Docker basics</li>
+        <li><strong>Testing:</strong> Unit testing, Jest, Mocha, API integration testing</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>UI/UX & Design Systems</h4>
+      <ul>
+        <li><strong>Design & Prototyping:</strong> Figma, High-fidelity Wireframing, User Flow Mapping</li>
+        <li><strong>Creative Suite:</strong> Adobe Illustrator, Adobe Photoshop</li>
+        <li><strong>Design Principles:</strong> Typography, Responsive Systems, Interaction Design</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Featured Work & Achievements
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>LLM Evaluation & Test Harness Pipeline</h4>
+      <p>Architected automated evaluation workflows to systematically assess LLM reasoning consistency, hallucination rates, and latency under structured benchmark prompts.</p>
+      <p><em>Focus: Model evaluation, automated test harnesses, prompt regression pipelines</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Real-Time Communication Platform</h4>
+      <p>Built a full-stack real-time collaboration application featuring room-based channel management, sub-second message propagation, and persistent session state.</p>
+      <p><em>Tech: React.js, Node.js, Express.js, Socket.IO, MongoDB</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>China International College Students' Innovation Competition 2025</h4>
+      <p><strong>Silver Award (School Level, Phase 1)</strong></p>
+      <p>Co-led core technical development and digital presentation architecture, coordinating cross-functional engineering and design workflows.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Guangdong Intellectual Property & Enterprise Immersion 2025</h4>
+      <p>Selected to study enterprise tech practices and intellectual property structures on-site at major technology leaders including Tencent and BYD.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mahmoud-abdalla-eg&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-abdalla-eg&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## Connect
+
+Open to technical collaborations, full-stack software engineering opportunities, and AI/LLM evaluation research initiatives.
+
+<div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/mahmoud-abdalla-eg/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:mahmouddesign01@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://www.behance.net/mahmoud-abdalla-eg">
+      <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=flat&logo=behance&logoColor=white" alt="Behance" />
+    </a>
+  </p>
+  <p>
+    <strong>WeChat:</strong> <code>Mahmoud-Ahmed995</code>
+  </p>
 </div>
