@@ -15,6 +15,7 @@
   <a href="mailto:mahmouddesign01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://img.shields.io/badge/WeChat-07C160?style=flat&logo=wechat&logoColor=white" alt="WeChat" />
   <a href="https://github.com/mahmoud-abdalla-eg">
     <img src="https://img.shields.io/badge/GitHub-mahmoud--abdalla--eg-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -130,8 +131,8 @@ Computer Science and Technology student at Jinan University and Software Enginee
 ## GitHub Analytics
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mahmoud-abdalla-eg&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-abdalla-eg&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmoud-abdalla-eg&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmoud-abdalla-eg&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -153,8 +154,7 @@ Open to technical collaborations, full-stack software engineering opportunities,
     <a href="https://www.behance.net/mahmoud-abdalla-eg">
       <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=flat&logo=behance&logoColor=white" alt="Behance" />
     </a>
-  </p>
-  <p>
-    <strong>WeChat:</strong> <code>Mahmoud-Ahmed995</code>
+    &nbsp;
+    <img src="https://img.shields.io/badge/WeChat-Mahmoud--Ahmed995-07C160?style=flat&logo=wechat&logoColor=white" alt="WeChat: Mahmoud-Ahmed995" />
   </p>
 </div>
