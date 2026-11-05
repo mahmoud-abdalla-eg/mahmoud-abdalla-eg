@@ -6,6 +6,10 @@
 *LLM Evaluation & Benchmarking | Enterprise SSO & API Integration | Distributed Full-Stack Systems*
 
 <p align="center">
+  <a href="https://mahmoudabdalla.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio Website" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/mahmoud-abdalla-eg/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -35,6 +39,7 @@ Computer Science and Technology student at Jinan University and Software Develop
         <li><strong>Degree:</strong> B.S. Computer Science and Technology (Expected Jun 2028)</li>
         <li><strong>Experience:</strong> Software Development Intern at Coremail</li>
         <li><strong>Location:</strong> Guangzhou, China (Originally from Egypt)</li>
+        <li><strong>Portfolio:</strong> <a href="https://mahmoudabdalla.vercel.app/">mahmoudabdalla.vercel.app</a></li>
       </ul>
       <br />
     </td>
@@ -160,6 +165,10 @@ Open to technical collaborations, full-stack software engineering opportunities,
 
 <div align="center">
   <p>
+    <a href="https://mahmoudabdalla.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio Website" />
+    </a>
+    &nbsp;
     <a href="https://www.linkedin.com/in/mahmoud-abdalla-eg/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
